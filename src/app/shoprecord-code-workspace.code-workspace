@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../shoprecord-backend"
+		},
+		{
+			"path": "../../../shoprecord-native"
+		}
+	]
+}
